@@ -1,0 +1,10 @@
+{
+    "analysis": {
+        "input": "analysis-input.txt",
+        "mode": "leu-disam"
+    },
+    "generation": {
+        "input": "generation-input.txt",
+        "mode": "leu-gener"
+    }
+}

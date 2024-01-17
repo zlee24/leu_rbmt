@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-leu
+
+Name: apertium-leu
+Description: Finite-state morphological transducer and constraint grammar for Kara
+Version: @VERSION@
+
