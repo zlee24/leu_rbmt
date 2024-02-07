@@ -78,6 +78,20 @@ fäkälimän:fäkälimän # sign
 #fäliu:fäliu # Unsure 
 fäjanäi:fäjanäi # party
 fäsävul:fäsävul # tree type
+fät:fät # stone
+fäta:fäta # fire
+fävus:fävus # flesh
+feo:feo # whistle
+ferawäyan:ferawäyan # word/speech
+ferin:ferin # pandanus type
+fetinen:fetinen # sibling of the same sex
+fiäian:fiäian # question
+fitun:fitun # tree type
+fom:fom # tree type
+fuän:fuän # fat/grease
+fui:fui # hair
+fulun:fulun # moon
+#fulun saxa:fulun saxa # banana type # last word page 16
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -121,6 +135,40 @@ fäpiti:fäpiti # teach
 fäpoxoi:fäpoxoi # drop on (from your hands)
 färajät:färajät # smoulder
 färoxoye:färoxoye # correct (to cause to be)
+fäsot:fäsot # sell
+fätateaxe:fätateaxe # trust
+fätexäsäu:fätexäsäu # inform (me)
+fäyof:fäyof #shelter (from the rain)
+fegan:fegan # go pull
+fexaxäsane:fexaxäsane # measure it
+feirin:feirin # heal
+femaralie:femaralie # cross at (with him)
+fenäu:fenäu # steal
+fej:fej # send (a person)
+feo:feo # whistle
+fepätoxäne:fepätoxäne # divide it
+fepialäi:fepialäi # talk rubbish
+fepil:fepil # discuss
+ferawäi:ferawäi # speak
+ferawäyane:ferawäyane # cause sound
+feruma:feruma # join together
+fesiaxe:fesiaxe # get
+fetamäi:fetamäi # marry (go to a man's place to live) 
+fetok:fetok #argue
+feväl:feväl # carry (on the ends of a pole)
+fevis:fevis # fight
+feyuf:feyuf # pull (in the opposite directions)
+fiäi:fiäi # ask
+filimän:filimän # come
+firis:firis # carry (trumpline style)
+fït:fït # blow
+folas:folas # smell
+fomax:fomax # finish
+fot:fot # fishing (with two hand nets)
+fotapiak:fotapiak # rupture
+fua:fua # bare fruit
+fui:fui # remove (stones from mumu)
+fula:fula # play around
 
 LEXICON Articles
 
@@ -133,21 +181,30 @@ fafajan:fafajan # sharp
 fatak:fatak # straight
 fägala:fägala # noisy (could potentially mean noisily)
 fägut:fägut # hard/strong
-
+fäui:fäui # new/young
+feipul:feipul # unexpected/accidental
+fevuän:fevuän # spouses (two)
+fomirak:fomirak # small
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
 fädak:fädak # slowly
 färoxo:färoxo # properly
 fäsäxa:fäsäxa #easily/one time/once
+fexaxäs:fexaxäs # enough/able
+fepox:fepox # about 
+fulä:fulä # again/more
 
 LEXICON Prepositions
-
+fäsilak:fäsilak # close/near
 
 LEXICON Questions
 aso:aso # what
 asotobok:asotobok #what kind
 fä:fä # where
+
+LEXICON Aspect
+fo:fo #past tense
 
 LEXICON Misc
 fäxärus:fäxärus # long time (yet to come)
