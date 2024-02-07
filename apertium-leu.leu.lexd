@@ -15,7 +15,6 @@
 # <rquot>  # Right quotation mark
 # <lpar>   # Left parenthesis
 # <rpar>   # Right parenthesis
-
 # Number morphology
 # <pl>     # Plural
 # <sg>     # Singular
@@ -47,6 +46,96 @@ Punctuation
 ## Example stem lexicon:
 # LEXICON NounRoot
 # house:house   # A noun
+
+LEXICON Nouns
+balätasem:balätasem #taro type
+besisi:besisi # taro type 
+bänigin:bänigin # pumpkin 
+bi:bi # basket
+bina:bina #place/village
+bofin:bofin # plank (to sit on)
+bok:bok # kind/type
+bun:bun # smoke
+burum:burum # fern 
+butnã:butnã # taro type
+dãrim:dãrim # peace
+dãrip:dãrip # banana type
+demdem:demdem # snail shell
+#dim:dim # this entry is slightly unclear
+dimfteafäfilin:dimfteafäfilin # June (all food is ready)
+dimguf:dimguf # May (food is ready)
+din:din # (fish (general))
+enaj:enaj #inlaws (daughter or son)
+#fakäliu a funa wäi:fakäliu a funa wäi # fairy ring type mushroom # not sure about multiword nouns
+falagia:falagia #tree type
+faläj:faläj # tree (nut)
+faram:faram # stone pile where fish hide 
+farun:farun # tree
+fasei:fasei # tree type
+fäxäna:fäxäna # branch of tree
+fäk:fäk # teeth (one's own)
+fäkälimän:fäkälimän # sign
+#fäliu:fäliu # Unsure 
+
+LEXICON Verbs
+bäi:bäi # to not want
+bit:bit # to lie
+boak:boak # to grow (trees not people)
+box:box # like/want
+dãrum:dãrum # pacify
+dif:dif # dig
+doxot:doxot # go with/accompany
+du:du # jump down 
+fafanãi:fafanãi # entrust
+falim:falim # watch 
+falis:falis # crawl using more than two legs 
+falou:falou # charge/attack
+famäus:famäus # decorate
+fapaxalaye:fapaxalaye # dry/wipe off water
+fapaläu:fapaläu # get away 
+#fapaläwane:fapaläwane # get *it* away 
+faräm:faräm # burn / singe
+fasäl:fasäl # miss the mark
+fasuye:fasuye # plant taro stick
+fatäxapine:fatäxapine # finish *it*
+fatis:fatis # show (what is theirs)
+fädui:fädui # jump down *on* (to cause to)
+fäf:fäf # cook (in a mumu)
+fägutäi:fägutäi #strengthen
+fäxälit:fäxälit #show 
+fäxäradak:fäxäradak #straight (to cause to be)
+fäxätaj:fäxätaj # lookafter (because they are yours)
+fäxäulat:fäxäulat # surround/encircle
+fäxovul:fäxovul # come together
+fäisox:fäisox # work
+fäla:fäla # run
+fälak:fälak # put on/through/into
+fälapok:fälapok # run *quickly*
+fälet:fälet # go
+
+LEXICON Conjuctions
+ej:ej # and
+
+LEXICON Adjectives
+dadoxot:dadoxot # sticky
+fafajan:fafajan # sharp
+fatak:fatak # straight
+fägala:fägala # noisy (could potentially mean noisily)
+fägut:fägut # hard/strong
+
+
+LEXICON Adverbs
+fatäpus:fatäpus #quickly
+fädak:fädak # slowly
+
+
+LEXICON Questions
+aso:aso # what
+asotobok:asotobok #what kind
+fä:fä # where
+
+LEXICON Misc
+fäxärus:fäxärus # long time (yet to come)
 
 
 PATTERN Number
