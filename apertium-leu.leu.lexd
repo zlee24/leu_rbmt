@@ -137,6 +137,39 @@ xänäi:xänäi # bird type / tern
 xäpäs:xäpäs # fish type 
 xäpu:xäpu # lizard/monitor
 xäput:xäput # shell/clam
+xärame:xärame # taro type
+#xärämus simaxo: xärämus simaxo # taro type
+xäräu:xäräu # lizard/black monitor
+xäre:xäre # root
+xäriu:xäriu # bamboo
+xäroräu:xäroräu # fish type / striped reef fish 
+xäs:xäs # gall bladder 
+xäsij:xäsij # edge/side 
+xäsijak:xäsiak # side/my side 
+xät:xät # fish type 
+xätana:xätana # tree type 
+xätita:xätita # tree type 
+xätolok:xätolok # egg
+xätu:xätu # hermit crab
+xäva:xäva # testicles 
+xävala:xävala # ground 
+xävatäi:xävatäi # leaves (used as plates at mumu)
+xävil:xävil # part/wall
+xävupus:xävupus # tree type 
+xävus:xävus # reed type/red bush
+xäwa:xäwa # rubbish
+xäwas:xäwas # ride 
+xäwä:xäwä # cemetary 
+xäwäm:xäwäm # fish type 
+xäyäu:xäyäu # fish type 
+#xeak mänu:xeak mänu # tree type
+xefus:xefus # new leaf
+xeläwa:xeläwa # fish type
+xemu:xemu # shell/clam (small white fluted)
+xenawa:xenawa # tree type
+xesuna:xesuna # his cousin
+xet:xet # upright stakes 
+xeva:xeva # fish type/puffer fish 
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -236,11 +269,23 @@ xälum:xälum # look
 xämaxe:xämaxe # scrub
 xäote:xäote # pick fruit (with a pole)
 xärak:xärak # drown 
+xäres:xäres # fade/change color
+xätaj:xätaj # watch out for / babysit 
+xätipe:xätipe # cut (a net)
+xäul:xäul # paddle 
+xäute:xäute # tie/make a net
+xäuye:xäuye # open
+xävaj:xävaj # help 
+xävise:xävise # carry (on back as baby)
+xese:xese # strip bark (with a knife) 
+xet:xet # bite
+xiaxe:xiaxe # push him down #stopped here page 29
 
 LEXICON Articles
 
 LEXICON Conjuctions
 ej:ej # and
+xena:xena # for/in order to 
 
 LEXICON Adjectives
 dadoxot:dadoxot # sticky
@@ -261,6 +306,10 @@ xälelef:xälelef # light/not heavy
 xäliu:xäliu # round
 #xäliu xoläi:xäliu xoläi # round about 
 xäpiak:xapiak # all/all of us finished
+xäsano:xäsano # some
+xäves:xäves # plenty
+xävul:xävul # naked 
+
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
@@ -271,15 +320,18 @@ fexaxäs:fexaxäs # enough/able
 fepox:fepox # about 
 fulä:fulä # again/more
 funä:funä # usually
+xäsam:xäsam # quietly
 
 LEXICON Prepositions
 fäsilak:fäsilak # close/near
 xä:xä # benefactive relator (for)
+xe:xe # to/toward
 
 LEXICON Questions
 aso:aso # what
 asotobok:asotobok #what kind
 fä:fä # where
+xenaso:xenaso # why 
 
 LEXICON Aspect
 fo:fo #past tense
