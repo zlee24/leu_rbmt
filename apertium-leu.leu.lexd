@@ -193,6 +193,49 @@ xoj:xoj # tree type
 xorej:xorej # cicada 
 xoväk:xoväk # (drinking) coconut
 xufuak:xufuak # gall bladder 
+xufulun:xufulun # fish type
+xulävä:xulävä # fish type
+xulxul:xulxul # taro type
+xup:xup # tree type
+#xup wupuj:xup wupuj # fish type
+xure:xure # river snail shell
+xusi:xusi # rat
+xutät:xutät # freshwater crayfish 
+ifak:ifak # cousins (Children of fathers sister)
+imuj:imuj # mother or father in law
+inäu:inäu # outrigger crosspieces 
+irin:irin # (white) magic/medicine
+isa:isa # name 
+ivin:ivin # bed 
+kä:kä # leg 
+käi:käi # bird type (grey herron)
+käksäxa:käksäxa # spirit 
+kälak:kälak # (my) child 
+kälajäi:kälajäi # taro type 
+käläj:käläj # taro type
+käläpua:käläpua # banana type
+käläta:käläta # banana type
+kämsivuiga:kämsivuiga # (my) ankle
+käremul:käremul # taro type
+kik:kik # grass (with racene)
+kila:kila # fish 
+kiril:kiril # taro type
+kokämät:kokämät # fish type
+kolumäna:kolumäna # (his) neck
+#kon täda:kon täda # taro type
+kor:kor # bird type (crow)
+kuga:kuga # fish type
+kui:kui # firewood
+laxasäi:laxasäi # letter/message
+lak:lak # child
+lalamon:lalamon # heart
+lalevusa:lalevusa # plant type (orchid)
+lamak:lamak # coconut leaf 
+las:las # smell/odor/aroma 
+läbile:läbile # banana type 
+lälä:lälä # fish type 
+läläxan:läläxan # banana type 
+läm:läm # tree type 
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -313,6 +356,27 @@ xol:xol # change (check here)
 xonof:xonof # scale a fish 
 xop:xop # chase
 xos:xos # peal (with a knife)
+xukune:xukune # shake/mix it
+xup:xup # bark
+xuput:xuput # puncture 
+xuräu:xuräu # play / do nothing
+xus:xus # tell/say
+irimäi:irimäi # sit/talk
+kapis:kapis # plant 
+kas:kas # open 
+kawäs:kawäs # mess up 
+käf:käf # dig 
+käis:käis # float 
+käliu:käliu # wander / circle
+kämal:kämal # crawl (on hands and feet)
+käpase:käpase # buy a pig (for a funeral)
+kät:kät # count
+käwa:käwa # put in 
+ket:ket # tear
+laxäu:laxäu # step over 
+lapasa:lapasa # join 
+läk:läk # go up 
+lämak:lämak # fishin (with torch, at night)
 
 LEXICON Articles
 
@@ -345,7 +409,11 @@ xävul:xävul # naked
 #xiu fämak:xiu fämak # last of all
 xïs:xïs # yellow/orange
 xolij:xolij # crooked / not straight 
-
+xurul:xurul # whole 
+käri:käri # sorry
+laxaf:laxaf # hot
+laxäi:laxäi # hungry
+laj:laj # shining 
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
@@ -357,7 +425,8 @@ fepox:fepox # about
 fulä:fulä # again/more
 funä:funä # usually
 xäsam:xäsam # quietly
-xoläi:xoläi # about
+xoläi:xoläi # about (position)
+lasun:lasun # long way
 
 LEXICON Prepositions
 fäsilak:fäsilak # close/near
@@ -365,15 +434,27 @@ xä:xä # benefactive relator (for)
 xe:xe # to/toward
 xoluna:xoluna # on top of it 
 xovul:xovul # together 
+ina:ina # of
+kol:kol # westward
+lasavul:lasavul # inside of corner 
+lä:lä # to/at/in
+lämalei:lämelai # (to the) outside --> ended here (page 41 )
 
 LEXICON Questions
 aso:aso # what
 asotobok:asotobok #what kind
 fä:fä # where
 xenaso:xenaso # why 
+laso:laso # when 
+
+LEXICON Pronouns
+i:i # 3rd person singular
 
 LEXICON Aspect
 fo:fo #past tense
+
+LEXICON time
+lanef:lanef # yesterday 
 
 LEXICON Misc
 fäxärus:fäxärus # long time (yet to come)
