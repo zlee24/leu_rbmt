@@ -236,6 +236,48 @@ läbile:läbile # banana type
 lälä:lälä # fish type 
 läläxan:läläxan # banana type 
 läm:läm # tree type 
+läman:läman # ocean (beyond the reef)
+lämäs:lämäs # coconut meat 
+läj:läj # fly
+läriäf:läriäf # fish type
+läs:läs # lime powder (chewed with betelnut)
+lätan:lätan # bush/jungle
+läudu:läudu # banana type
+lävula:lävula # taro stick (part planted in ground)
+lävuj:lävuj # (in/at) night
+leaf:leaf # afternoon
+leawen:leawen # day before yesterday
+lifu:lifu # house
+ligoi:ligoi # (large tree) ant 
+lixilot:lixilot # hat for singing
+limut:limut # tree moss
+liu:liu # sling / sling stone
+loläu:loläu #tree type (red fruit similar to apple or pear)
+lua:lua # twins
+luxom:luxom # (reef) crab (burries itself in sand)
+lujas:lujas # taro type
+mak:mak # (my) hand 
+maläxon:maläxon # banana type
+malesa:malesa # fish type / barracuda 
+malugis:malugis # taro type
+malus:malus # fish type (small sardine type without scales)
+mamara:mamara # bush type / bilas bush 
+mamuwän:mamuwän # right hand 
+majäf:majäf # bird type 
+maraja:maraja # lobe 
+maraja:maraja # taro type 
+maräs:maräs # cancer (sores inside)
+marej:marej # bird type 
+maruf:maruf # shade 
+masif:masif # taro type 
+masoj:masoj # bristle
+matäk:matäk # (my) eye 
+matäniäs:matäniäs #sea snake (black and white, poisonous)
+mädeu:mädeu # tree type 
+mädixa:mädixa # flying fox 
+mäfa:mäfa # shell type / murex 
+mägawa:mägawa # fish type 
+mäxala:mäxala # fish type 
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -376,9 +418,31 @@ ket:ket # tear
 laxäu:laxäu # step over 
 lapasa:lapasa # join 
 läk:läk # go up 
-lämak:lämak # fishin (with torch, at night)
-
-LEXICON Articles
+lämak:lämak # fishing (with torch, at night)
+lämon:lämon # think
+#lämon fäulie:lämon fäulie # remember
+lämone:lämone # decide
+läjäi:läjäi # hear/listen
+lep:lep # wave (in the air)
+levagoi:levagoi # duck
+lif:lif # fly
+liliuane:liliuane # sling (to throw with a sling)
+lip:lip # cut (grass)
+#lisan fäulie:lisan fäulie # return (it)
+lisane:lisane # bring
+luak:luak # vomit
+luloak:luloak # give birth (human)
+lus:lus # stink
+mafiu:mafiu # stink
+maxaraf:maxaraf # sweat
+maxarak:maxarak # itch 
+malit:malit # (to) not (be) here
+malos:malos # deflate
+marän:marän # buy 
+masasäf:masasäf # (not) sleep well
+matifesäl:matifesäl # join / overlap 
+mägit:mägit # make coconut milk 
+#mäxus:mäxus # short wind (adj? short winded?) --> ended here, page 50
 
 LEXICON Conjuctions
 ej:ej # and
@@ -414,6 +478,18 @@ käri:käri # sorry
 laxaf:laxaf # hot
 laxäi:laxäi # hungry
 laj:laj # shining 
+läva:läva # big 
+lilivus:lilivus # heavy
+luäi:luäi # quiet / calm / peaceful
+malalaga:malalaga # thin
+marala:marala # angry 
+mararol:mararol # quiet
+maso:maso # ripe / ready
+matak:matak # not ready / not ripe 
+matäut:matäut # afraid 
+matoxol:matoxol # ripe 
+mäxawa:mäxawa # blue / green 
+mäxäta:mäxäta # black 
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
@@ -427,6 +503,8 @@ funä:funä # usually
 xäsam:xäsam # quietly
 xoläi:xoläi # about (position)
 lasun:lasun # long way
+legaf:legaf # with difficulty
+lunäi:lunäi # yet/still
 
 LEXICON Prepositions
 fäsilak:fäsilak # close/near
@@ -438,7 +516,14 @@ ina:ina # of
 kol:kol # westward
 lasavul:lasavul # inside of corner 
 lä:lä # to/at/in
-lämalei:lämelai # (to the) outside --> ended here (page 41 )
+lämalei:lämelai # (to the) outside 
+lämina:lämina # (at/to) behind (it)
+läna:läna # (at/to) insidelänona:länona # (at/to) infront (it)
+läpia:läpia # (at/to) under (at/to the ground)
+lätana:lätana # (at/to) beside (it)
+läui:läui # up/up in
+lu:lu # over there (used with directional words)
+malän:malän # like/same as 
 
 LEXICON Questions
 aso:aso # what
@@ -455,9 +540,11 @@ fo:fo #past tense
 
 LEXICON time
 lanef:lanef # yesterday 
+lumui:lumui # behind/following/(after?)
 
 LEXICON Misc
 fäxärus:fäxärus # long time (yet to come)
+lävaxas:lävaxas # alright/ok, cat: ex(pression?)
 
 
 PATTERN Number
