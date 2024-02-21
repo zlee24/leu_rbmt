@@ -278,6 +278,55 @@ mädixa:mädixa # flying fox
 mäfa:mäfa # shell type / murex 
 mägawa:mägawa # fish type 
 mäxala:mäxala # fish type 
+mäkala:mäkala # singapo (potato substitute)
+mäläp:mäläp # fish type 
+mälfisa:mälfisa # bird type 
+mälif:mälif # bird type 
+mälila:mälila # (many/group of) people
+mälisä:mälisä # fish type 
+mälu:mälu # wind 
+mämät:mämät # funeral 
+mänijek:mänijek # fish type 
+mänonäf:mänonäf # January (do not have food yet)
+mänoroxo:manoroxo # February (plants start to come up )
+mänu:mänu # bird (generally)
+mäjalas:mäjalas # comet 
+märapi:märapi # laplap (cloth) material
+märawäs:märawäs # tree type 
+märere:märere # fish type 
+märiäi:märiäi # price 
+märiäs:märiäs # dry season  
+märis:märis # vine rop (used for making sago shingles)
+märof:märof # fish type 
+märuläj:märuläj # fish type 
+mäsak:mäsak # pain 
+mäsaläi:mäsaläi # evil spirit 
+mäsajena:mäsajena # fork of a tree 
+mäta:mäta # man 
+#mätana dua:mätana dua # window (eye of the door)
+mätäfetäma:mätäfetäma # family 
+mätäxek:mätäxek # tree type (good for posts)
+mätäligärät;mätäligärät # fish type 
+mätävilui:mätävilui # fish type 
+mätun:mätun # fish type 
+mäyaj:mäyaj # (dry) coconut 
+melasof:melasof # meaning 
+meleskäk:meleskäk # swing 
+memäi:memäi # bossman of clan 
+memäyäj:memäyäj # fish type 
+meskä:meskä # flesh 
+meut:meut # guard (The men who sit at night with a dead body)
+mif:mif # dream 
+mimisut:mimisut # gecko 
+minimäs:minimäs # taro type 
+misu:misu # tree type 
+mo:mo # thing (usually a prefix)
+mobit:mobit # taro type 
+mofu:mofu # tomorrow 
+mogäbe:mogäbe # fish type (porpoise)
+moxotaga:moxotaga # children of FS
+monänäu:monänäu # fish type 
+
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -442,7 +491,18 @@ marän:marän # buy
 masasäf:masasäf # (not) sleep well
 matifesäl:matifesäl # join / overlap 
 mägit:mägit # make coconut milk 
-#mäxus:mäxus # short wind (adj? short winded?) --> ended here, page 50
+#mäxus:mäxus # short wind (adj? short winded?) 
+mämaluf:mämaluf # forget 
+mämäxus:mämäxus # grieve 
+mät:mät # die 
+mätef:mätef # sleep 
+mäti:mäti # lie down 
+#mäti fäpet: mäti fäpet # lean against 
+meleskäk:meleskäk # swing 
+mia:mia # urinate 
+miluj:miluj # mistake/error
+mimit:mimit # pinch to break 
+misij:misij # smell 
 
 LEXICON Conjuctions
 ej:ej # and
@@ -490,6 +550,19 @@ matäut:matäut # afraid
 matoxol:matoxol # ripe 
 mäxawa:mäxawa # blue / green 
 mäxäta:mäxäta # black 
+mälit:mälit # loose, unresponsible 
+mälmäl:mälmäl # tired, soft 
+mämälui:mämälui # soft, spongey 
+mäna:mäna # all 
+märafut:märafut # sweet, refreshing, cool, wet 
+märip:märip # smooth 
+mäsat:mäsat # clear (after a rain)
+mäsi:mäsi # full 
+mätafan:mätafan # heavy 
+meräu:meräu # happy 
+modak:modak # small thing 
+modus:modus # tall/long thing 
+mopäk:mopäk # bitter
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
@@ -505,6 +578,7 @@ xoläi:xoläi # about (position)
 lasun:lasun # long way
 legaf:legaf # with difficulty
 lunäi:lunäi # yet/still
+mäs:mäs # must 
 
 LEXICON Prepositions
 fäsilak:fäsilak # close/near
@@ -531,6 +605,7 @@ asotobok:asotobok #what kind
 fä:fä # where
 xenaso:xenaso # why 
 laso:laso # when 
+mäläfa:mäläfa # how
 
 LEXICON Pronouns
 i:i # 3rd person singular
