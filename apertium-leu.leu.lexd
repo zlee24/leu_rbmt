@@ -326,7 +326,52 @@ mofu:mofu # tomorrow
 mogäbe:mogäbe # fish type (porpoise)
 moxotaga:moxotaga # children of FS
 monänäu:monänäu # fish type 
-
+morän:morän # (green tree) python 
+motäp:motäp # forbidden (thing)
+motitia:motitia # (things from) singsing dance 
+mu:mu # shell type/black lipped cone 
+mulmul:mulmul # fish type 
+mun:mun # stove for mumu 
+munujak:munujak # bird type 
+mus:mus # spirit-being 
+mut:mut # tree type 
+mut:mut # crushed sago 
+naxa:naxa # tree type / bitum 
+nat:nat # (little) pig
+natok:natok # (my) child 
+näxä:näxä # fish type 
+näk:nääk # (my) thought/idea 
+nämu:nämu # mosquito
+näsana:näsana # (his) wife 
+nätu:nätu # tree type (has green tomato like fruit)
+nävä:nävä # fish type 
+nej:nej # poison 
+#nik pänabuso: nik pänabuso # taro type
+#nik tanagäk: nik tanagäk # taro type 
+nim:nim # mumu packet 
+#ninäm päp:ninäm päp # (your) stepmother
+ninäj:ninäj # (my) mother
+niu:niu # nest 
+nobina:nobina # office/position/place
+nonomät:nonomät # reef (front edge)
+nui:nui # fish type / stone fish (very poisonous)
+nunus:nunus # tree type
+jalis:jalis # feather 
+jajät:jajät # ant 
+jajexa:jajexa # (my) seat/place 
+jäi:jäi # type of nut 
+järaf:järaf # taro type 
+jäs:jäs # sun 
+jäum:jäum # rafter 
+jis:jis # bird type 
+jit:jit # banana type 
+jit:jit # sand flea 
+jujan:jujan # white magic 
+jujut:jujut # plant (purple flowers, dry seeds look like lice)
+juruväpoj:juruvapoj # protectoress 
+jusu:jusu # nose 
+oraga:oraga # possom 
+oronusa:oronusa # island 
 
 LEXICON Verbs
 bäi:bäi # to not want
@@ -503,6 +548,27 @@ mia:mia # urinate
 miluj:miluj # mistake/error
 mimit:mimit # pinch to break 
 misij:misij # smell 
+mulox:mulox # grieve/worry 
+mulus:mulus # untie 
+muneta:muneta # don't leave alone 
+musajin:musajin # smell
+nanomäi:nanomäi # imagine 
+najan:najan # laugh 
+näi:näi # sit 
+num:num # drink 
+nuj:nuj # ask a favor / pray to spirit 
+nupox:nupox # turn over 
+nus:nus # rub 
+nuyen:nuyen # spread out 
+jan:jan # eat / chew 
+jas:jas # tear down 
+jädarak:jädarak # break in two (not necesarily equal halves)
+jäjäul:jäjäul # fish with line / day dream 
+jäs:jäs # swim under water 
+jätaj:jätaj # watchout for 
+jojäu:jojäu # talk in sleep 
+jojolän:jojolän # not recognize 
+jujan:jujan # heal 
 
 LEXICON Conjuctions
 ej:ej # and
@@ -563,6 +629,9 @@ meräu:meräu # happy
 modak:modak # small thing 
 modus:modus # tall/long thing 
 mopäk:mopäk # bitter
+mü:mü # all 
+näf:näf # enough 
+joj:joj # crazy 
 
 LEXICON Adverbs
 fatäpus:fatäpus #quickly
@@ -598,6 +667,7 @@ lätana:lätana # (at/to) beside (it)
 läui:läui # up/up in
 lu:lu # over there (used with directional words)
 malän:malän # like/same as 
+näbe:näbe # here 
 
 LEXICON Questions
 aso:aso # what
@@ -606,9 +676,25 @@ fä:fä # where
 xenaso:xenaso # why 
 laso:laso # when 
 mäläfa:mäläfa # how
+näse:näse # who 
 
 LEXICON Pronouns
 i:i # 3rd person singular
+näme:näme # 2nd pl du
+nämi:nämi # 2nd pl pl 
+nämutul:nämutul # 2nd pl tree
+näne:näne # 3rd sg
+näno:näno # 2nd sg 
+näri:näri # 3rd pl pl 
+närie:närie # 3rd pl du 
+närutul:närutul # 3rd pl tr 
+nemäm:nemäm # 1st pl ex pl 
+nemäme:nemäme # 1st pl ex du 
+nemätul:nemätul # 1st pl ex tr 
+nenia:nenia # 1st sg 
+netära:netära # 1st pl in pl 
+netäre:netäre # 1st pl in du
+netätul:netätul # 1st pl in tr 
 
 LEXICON Aspect
 fo:fo #past tense
